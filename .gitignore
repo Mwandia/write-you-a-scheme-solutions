@@ -1,0 +1,9 @@
+# folders
+/obj
+/bin
+
+## Data
+*Data*
+*.csv
+*.sql
+*dump*
