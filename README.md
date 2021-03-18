@@ -4,4 +4,4 @@ This repository represent my personal solutions for the [Write Yourself a Scheme
 ## Build
 I know I won't remember how to do this later so here a list of ways to compile the binaries for each chapter
 
-chapter 2 ghc -package parsec -o bin/q2 sec/ch02/{file}
+chapter 2 ghc -package parsec -o bin/q2 src/ch02/{file}
